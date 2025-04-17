@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "mcp-server-ip-lookup": {
+      "command": "python3",
+      "args": ["/home/ankit/Documents/mcp_azure_openai_ip_location/src/mcp_tool_demo_ip.py"],
+      "env": {
+        "PYTHONUNBUFFERED": "1"
+      }
+    }
+  }
+}
