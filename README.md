@@ -1,2 +1,1 @@
 # mcp_azure_openai_ip_location
-# mcp_azure_openai_ip_location
